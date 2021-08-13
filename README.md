@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, eu sou o Kevin</h1>
+<h1 align="center">Hey 👋, Eu sou o Kevin!</h1>
 <h3 align="center">Um desenvolvedor explorador focado sempre em descobrir e aprender mais sobre esse vasto mundo</h3>
 
 - 🔭 Desenvolvedor Java Jr. em formação no **Bootcamp da Generation Brasil**
