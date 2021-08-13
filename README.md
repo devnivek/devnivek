@@ -15,12 +15,11 @@
 
 <h3 align="left">Conecte comigo através das minhas Redes Sociais:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/kevsantos" alt= "LinkedIN" target= "_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-607776215/">
+</a>
 <a href="https://instagram.com/skev.in" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucxs.lm_">
-</a>
-
-<a href="https://linkedin.com/in/kevsantos" alt= "LinkedIN" target= "_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-607776215/">
 </a>
 <a href="https://discord.gg/#5544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5544" height="30" width="40" /></a>
 </p>
