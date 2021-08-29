@@ -7,7 +7,7 @@
 
 - 🌱 Desenvolvendo por aqui cada dia um pouco em **Back-end e Front-end**
 
-- 💬 Atualmente aprendendo sobre **Java, SQL, Spring, HTML/CSS e JavaScript**
+- 💬 Atualmente aprendendo sobre **Java, MySQL, Spring, Angular, HTML/CSS e JavaScript**
 
 - 📫 Pode me contatar pelo meu email: **kevin.santos@outlook.com**
 
