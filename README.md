@@ -2,8 +2,7 @@
 <img height = "150px" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
-<h1 align="center">Hey < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Sou o Kevin!</h1>
-<h3 align="center">Um desenvolvedor explorador focado sempre em descobrir e aprender mais sobre esse vasto mundo</h3>
+<h1 align="center">Hey < Devs/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Kevin aqui! ;)</h1>
 
 - 🔭 Desenvolvedor Java Jr. recém formado no **Bootcamp da Generation Brasil**
 
