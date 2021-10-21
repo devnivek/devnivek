@@ -1,5 +1,5 @@
 <div align="center">
-<img height = "250px" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img height = "150px" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
 <h1 align="center">Hey < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Sou o Kevin!</h1>
@@ -11,13 +11,13 @@
 
 - 🌱 Desenvolvendo por aqui cada dia um pouco em **Back-end e Front-end**
 
-- 💡 Confira meu portfólio em: [https://devnivek.github.io/portfolio/](https://devnivek.github.io/portfolio/)
-
 - 💬 Atualmente aprendendo sobre **Java, Ruby, React, Angular e MySQL**
+  
+- 💡 Confira meu portfólio em: [https://devnivek.github.io/portfolio/](https://devnivek.github.io/portfolio/)
 
 - 📫 Pode me contatar pelo meu email: **kevin.santos@outlook.com**
 
-- ⚡ Um fato peculiar: **Sou um cicloturista urbano aos finais de semana**
+- ⚡ Um hobbie particular: **Cicloturismo urbano aos finais de semana**
 
 <h2 align="left">Conect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
