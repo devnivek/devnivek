@@ -1,17 +1,17 @@
 <h1 align="center">Hey 👋, Eu sou o Kevin!</h1>
 <h3 align="center">Um desenvolvedor explorador focado sempre em descobrir e aprender mais sobre esse vasto mundo</h3>
 
-- 🔭 Desenvolvedor Java Jr. em formação no **Bootcamp da Generation Brasil**
+- 🔭 Desenvolvedor Java Jr. recém formado no **Bootcamp da Generation Brasil**
 
 - 👨‍💻 Técnologo em Análise e Desenvolvimento de Sistemas pela **Universidade de Mogi das Cruzes**
 
 - 🌱 Desenvolvendo por aqui cada dia um pouco em **Back-end e Front-end**
 
-- 💬 Atualmente aprendendo sobre **Java, MySQL, Spring, Angular, HTML/CSS e JavaScript**
+- 💬 Atualmente aprendendo sobre **Java, Ruby, React, Angular e MySQL**
 
 - 📫 Pode me contatar pelo meu email: **kevin.santos@outlook.com**
 
-- ⚡ Um fato peculiar sobre mim? **Sou um cicloturista urbano aos finais de semana**
+- ⚡ Um fato peculiar: **Sou um cicloturista urbano aos finais de semana**
 
 <h3 align="left">Conecte comigo através das minhas Redes Sociais:</h3>
 <p align="left">
