@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey < Devs/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Kevin aqui! ;)</h1>
 
-- 🔭 Desenvolvedor Java Jr. recém formado no **Bootcamp da Generation Brasil**
+- 🔭 Desenvolvedor Web Fullstack Jr. recém formado no **Bootcamp da Generation Brasil**
 
 - 👨‍💻 Técnologo em Análise e Desenvolvimento de Sistemas pela **Universidade de Mogi das Cruzes**
 
