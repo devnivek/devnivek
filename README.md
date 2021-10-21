@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋, Eu sou o Kevin!</h1>
+<div align="center">
+<img width="100%" height = "250px" src="https://i.imgur.com/4WNqqrv.jpg" alt="cover" />
+</div>
+
+<h1 align="center">Hey < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Sou o Kevin!</h1>
 <h3 align="center">Um desenvolvedor explorador focado sempre em descobrir e aprender mais sobre esse vasto mundo</h3>
 
 - 🔭 Desenvolvedor Java Jr. recém formado no **Bootcamp da Generation Brasil**
@@ -44,7 +48,7 @@
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 
 ![Metrics](https://metrics.lecoq.io/rahulbanerjee26?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
